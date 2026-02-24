@@ -15,7 +15,7 @@ We hope you find our services helpful and enjoyable! If you feel like showing so
 
 To make a small contribution, you can send us a coffee's worth of USDT or Brazilian Instant Payment (PIX) to our QR code. Every coffee counts and keeps us brewing more ideas!
 
-### Here's how you can send a USDT coffee:
+### Way #1 - USDT coffee:
 
 ![Coffee QR Code](https://raw.githubusercontent.com/dadosnapratica/buy_a_coffe_qrcodes/refs/heads/main/qr_code_usdt_enus_200px.png)
 
@@ -28,12 +28,17 @@ or send USDT to address:
 2. **Enter the amount:** The cost of a coffee - usually around $3 to $5.
 3. **Send your support:** Hit send and make our day!
 
-### USD Tip — Wise international Transfer
+### Way #2 - Wise international Transfer
 
-🔗 https://wise.com/pay/me/flavion156
+![Coffee Wise QR Code](https://raw.githubusercontent.com/dadosnapratica/buy_a_coffe_qrcodes/refs/heads/main/qr_code_pix_bradesco.png)
 
+Or sent tip for address
 
-### Here's how you can send a PIX coffee:
+```
+https://wise.com/pay/me/flavion156
+```
+
+### Way #3 - Brasilian PIX coffee:
 
 ![Coffee QR Code](https://raw.githubusercontent.com/dadosnapratica/buy_a_coffe_qrcodes/refs/heads/main/qr_code_pix_bradesco.png)
 
@@ -43,19 +48,11 @@ or send USDT to address:
 
 PIX is a digital payment system in Brazil that allows instant payments 24/7 via mobile phones. If you found this project helpful, please consider buying me a coffee.
 
+---
+
 Thank you once again for your incredible support and for being a part of our community. Your contribution fuels our passion and commitment.
 
-If this project helped you, consider buying me a coffee ☕.
-
-Your support helps sustain open-source research and future projects.
-
-### ₿ Crypto Support
-
-```text
-0x3db4d1dd10b60c278f27bd1b2e2bd888d0f99f85
-```
-
-Suggested contribution: **$3–5 coffee ☕**
+---
 
 ## Author
 
