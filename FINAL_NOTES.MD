@@ -50,21 +50,23 @@ PIX is a digital payment system in Brazil that allows instant payments 24/7 via 
 
 ---
 
-Thank you once again for your incredible support and for being a part of our community. Your contribution fuels our passion and commitment.
-
----
-
 ## Author
 
 **Flavio Lopes** Spreading practical data knowledge for decision making.
 
-## Contact
+--- 
+
+# 📬 Contact
 
 Questions, suggestions, or improvements? Contact me or contribute directly to the repository.
 
-- **GitHub**: [dadosnapratica](https://github.com/orgs/dadosnapratica)
-- **LinkedIn**: [Flavio Lopes](https://www.linkedin.com/in/flavionlopes/)
-- **Email**: [flavio.lopes@ideiasfactory.tech](mailto:flavio.lopes@ideiasfactory.tech)
-- **Instagram**: [@dadosnapratica](https://www.instagram.com/dadosnapratica/)
+- GitHub: https://github.com/orgs/dadosnapratica  
+- LinkedIn: https://www.linkedin.com/in/flavionlopes/  
+- Email: flavio.lopes@ideiasfactory.tech  
+- WhatsApp: https://wa.me/5511996354436  
+- Instagram: https://www.instagram.com/dadosnapratica/
 
 ---
+Thank you once again for your incredible support and for being a part of our community. Your contribution fuels our passion and commitment.
+⭐ Keep learning. Keep building. Keep sharing knowledge. ⭐ 
+
